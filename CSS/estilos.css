@@ -1,0 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: "Ubuntu";
+  background: #e5e5e5;
+}
+
+main {
+  max-width: 800px;
+  width: 90%;
+  margin: auto;
+  padding: 40px;
+}
+
+/* ------------------- Etilos para Validacion --------------------*//*# sourceMappingURL=estilos.css.map */
